@@ -11,7 +11,7 @@ Currently living in Rio de Janeiro 🏖 ☀ Brazil 🇧🇷 and lucky enough to 
 +<img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg">
 </p>
 
-Before my current employer, I had a wonderful journey at HPE (Hewlett-Packard Enterprise) and started my career at EDS (Electronic Data Systems).
+Before working for my current employer, I had a wonderful journey at HPE (Hewlett-Packard Enterprise) and started my career at EDS (Electronic Data Systems).
 
 
 
