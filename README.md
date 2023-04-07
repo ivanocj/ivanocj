@@ -3,7 +3,7 @@
 
 Hello! My name is **Ivan Costa** and I'm a **Senior ETL Developer / Tech Consultant / IT Specialist** for all things telco. 
 
-Currently living in Rio de Janeiro 🏖 ☀ Brazil 🇧🇷 and lucky enough to be doing great things at PSM Company (for Avaya Inc.) mostly using
+Currently living in Rio de Janeiro 🏖 ☀ Brazil 🇧🇷 and lucky enough to be doing great things at Avaya (www.avaya.com) mostly using
 <p float="left">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png">
 + <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
