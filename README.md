@@ -1,9 +1,10 @@
+# Ivan Costa
+**Senior Software Engineer**
 
+Hello! I'm **Ivan Costa**. I have over 16 years of experience in the software development industry, having worked as a Senior ETL Developer, a Tech Consultant, and an IT Specialist. 
+I'm passionate about designing and implementing robust systems in data intensive environments.
 
-
-Hello! My name is **Ivan Costa** and I'm a **Senior ETL Developer / Tech Consultant / IT Specialist** for all things telco. 
-
-Currently living in Rio de Janeiro 🏖 ☀ Brazil 🇧🇷 and lucky enough to be doing great things at Avaya (www.avaya.com) mostly using
+Currently living in Rio de Janeiro 🏖 ☀ , Brazil 🇧🇷 and lucky enough to be doing great things mostly using:
 <p float="left">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png">
 + <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
@@ -11,7 +12,35 @@ Currently living in Rio de Janeiro 🏖 ☀ Brazil 🇧🇷 and lucky enough to 
 + <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg">
 </p>
 
-Before working for my current employer, I had brief but very productive passage at OI S.A., and before that I had a wonderful journey (+10 years) at HPE (Hewlett-Packard Enterprise) and started my career at EDS (Electronic Data Systems).
+
+## Areas of Expertise
+
+-   Story Telling, data visualization, SaaS architecture, design, analytics and customer service systems
+-   BSS, Integration, Fraud prevention, product development, and business operations
+-   Backend, batch processing, Java virtual Machine (JVM) tuning, PostgreSQL tuning, and shell scripting
+
+## Latest Certifications
+
+-   Oracle Cloud Infrastructure 2024 - Generative AI Certified Professional
+-   Microsoft Certified - Azure Fundamentals
+-   HackerRank - Java Certificate
+-   Microsoft Certified - Programming in HTML5 with JavaScript and CSS3
+
+## Tools & Technologies
+
+-   Java EE, Spring Boot, Jetbrains IntelliJ Idea, JDK tools(ex:jmap, jconsole, visualvm...)
+-   JVM languages (ex: Kotlin, Scala, Groovy, Clojure...)
+-   Apache Kafka, ELK Stack, Oracle, Postgres, MySQL
+-   Power BI, MicroStrategy, SAP Business Objects, Apache Spark - Databricks
+-   Linux in baremetal and in cloud environments (Azure, AWS, OCI)
+
+## Current Interests 
+-   Containerization (Docker)
+-   Orchestration (Kubernetes, Rancher)
+-   Virtualization/hypervisors
+-   Cloud-native applications, edge computing, and IoT.
+---
+Before working for almost 3 years at my last employer - [Avaya](https://en.wikipedia.org/wiki/Avaya), I had a brief but productive stint at [Oi S.A](https://en.wikipedia.org/wiki/Oi_(telecommunications)).. Previously, I spent over a decade at [HPE (Hewlett-Packard Enterprise)](https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise) and started my career at [EDS (Electronic Data Systems)](https://en.wikipedia.org/wiki/Electronic_Data_Systems).
 
 You can follow me on these networks as well:
 
