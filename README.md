@@ -6,7 +6,7 @@ I'm passionate about designing and implementing robust systems in data intensive
 
 Currently living in Rio de Janeiro 🏖 ☀ , Brazil 🇧🇷 and lucky enough to be doing great things mostly using:
 <p float="left">
-<img width="5%" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png">
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/500px-Java_programming_language_logo.svg.png">
 + <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
 + <img width="8%" height="12%" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 + <img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg">
